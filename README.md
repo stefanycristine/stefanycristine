@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vcenter=true&width=1000&lines=HELLO,+My+name+is+Stefany+Cristine;I'm+25+years+old;I'm+from+Brazil;Software+Engineering+student+;Be+Welcome!+:%29)](https://git.io/typing-svg)                                                                                 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vcenter=true&width=1000&lines=HELLO,+My+name+is+Stefany+Cristine;Software+Engineering+student+;Be+Welcome!+:%29)](https://git.io/typing-svg)                                                                                 
 
 
 
