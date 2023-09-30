@@ -28,10 +28,6 @@
  </div>
  
 
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{stefanycristine}/count.svg" /></p> 
-<br>
-</div>
+##
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vcenter=true&width=1000&lines=Until+Next+Time!)](https://git.io/typing-svg)                                                                                 
 
